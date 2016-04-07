@@ -1,0 +1,9 @@
+kristin, Mike, gmcgrath, dbabel
+
+How is the Delivery roll out going?
+
+Moving delivery cluster form AWS to DC, so they can deploy to different regions, probably related to network access. Cost is another big factor
+
+chef-client is not dropping pid file when not in daemon mode
+
+
